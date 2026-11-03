@@ -1,0 +1,6 @@
+{
+  "name": "SecureVault – Image Encryption Using AES",
+  "description": "Production-grade AES-256-GCM image encryption and decryption platform with PBKDF2 key derivation and tamper-proof verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
